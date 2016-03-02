@@ -10,7 +10,7 @@
 <p><a class="white-text" href="sms:+628112636092" title="Sms Nissan Jogja">0811-2636-092</a></p>
 </blockquote>
 
-<table border="0" cellpadding="0" cellspacing="0" style="height:1294px; width:768px">
+<table>
 	<tbody>
 		<tr>
 			<td style="height:20px; width:343px">
