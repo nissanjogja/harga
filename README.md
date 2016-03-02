@@ -5,12 +5,12 @@
 <blockquote>
 <p><a class="white-text" href="tel:+6281328148102" title="Telp Nissan Jogja">0813-2814-8102</a></p>
 
-<p><a class="white-text" href="tel:+6287839929007" title="Whatsapp Nissan Jogja">0878-3992-9007</a></p>
+<p><a class="white-text" href="wa:+6287839929007" title="Whatsapp Nissan Jogja">0878-3992-9007</a></p>
 
-<p><a class="white-text" href="tel:+628112636092" title="Sms Nissan Jogja">0811-2636-092</a></p>
+<p><a class="white-text" href="sms:+628112636092" title="Sms Nissan Jogja">0811-2636-092</a></p>
 </blockquote>
 
-<table border="0" cellpadding="0" cellspacing="0" style="width:445px">
+<table border="0" cellpadding="0" cellspacing="0" style="height:1294px; width:768px">
 	<tbody>
 		<tr>
 			<td style="height:20px; width:343px">
@@ -27,7 +27,9 @@
 			<td style="width:103px">Rp. 938.500.000</td>
 		</tr>
 		<tr>
-			<td style="height:20px"><strong><a href="http://www.nissanjogja.co.id/mobil/51/nissan-evalia-jogja.html">Nissan Evalia Jogja</a></strong></td>
+			<td style="height:20px">
+			<h2><strong><a href="http://www.nissanjogja.co.id/mobil/51/nissan-evalia-jogja.html">Nissan Evalia Jogja</a></strong></h2>
+			</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
