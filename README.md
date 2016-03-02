@@ -12,7 +12,7 @@
 
 <p>&nbsp;</p>
 
-<table style="width:100%">
+<table style="width:100%;">
 	<tbody>
 		<tr>
 			<td>
